@@ -1,4 +1,4 @@
 # javascript
 this is my first project
 <br/>
-Author- Samir Thapa
+Author- Samir Thapa(devloper)
